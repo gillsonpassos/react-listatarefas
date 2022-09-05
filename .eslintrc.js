@@ -32,5 +32,6 @@ module.exports = {
   rules: {
     'react/react-in-jsx-scope': 0,
     'react/state-in-constructor': 0,
+    'react/forbid-prop-types': 0,
   },
 };
